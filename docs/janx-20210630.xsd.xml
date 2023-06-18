@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!-- DFIN New ActiveDisclosure (SM) XBRL Schema Document - http://www.dfinsolutions.com/ -->
+<!-- Creation Date :2021-08-10T16:21:18.8003+00:00 -->
+<!-- Copyright (c) 2021 Donnelly Financial Solutions, Inc. All Rights Reserved. -->
+<xsd:schema targetNamespace="http://www.januxrx.com/20210630" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:janx="http://www.januxrx.com/20210630" xmlns:srt="http://fasb.org/srt/2020-01-31" xmlns:num="http://www.xbrl.org/dtr/type/numeric" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:us-gaap="http://fasb.org/us-gaap/2020-01-31" xmlns:dei="http://xbrl.sec.gov/dei/2020-01-31" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:nonnum="http://www.xbrl.org/dtr/type/non-numeric" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <xsd:import schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd" namespace="http://www.xbrl.org/2003/instance"/>
+  <xsd:import schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd" namespace="http://www.xbrl.org/2003/linkbase"/>
+  <xsd:import schemaLocation="http://www.xbrl.org/2005/xbrldt-2005.xsd" namespace="http://xbrl.org/2005/xbrldt"/>
+  <xsd:import schemaLocation="http://xbrl.fasb.org/us-gaap/2020/elts/us-gaap-2020-01-31.xsd" namespace="http://fasb.org/us-gaap/2020-01-31"/>
+  <xsd:import schemaLocation="https://xbrl.sec.gov/dei/2020/dei-2020-01-31.xsd" namespace="http://xbrl.sec.gov/dei/2020-01-31"/>
+  <xsd:import schemaLocation="http://xbrl.fasb.org/srt/2020/elts/srt-2020-01-31.xsd" namespace="http://fasb.org/srt/2020-01-31"/>
+  <xsd:import schemaLocation="http://www.xbrl.org/dtr/type/numeric-2009-12-16.xsd" namespace="http://www.xbrl.org/dtr/type/numeric"/>
+  <xsd:import schemaLocation="http://www.xbrl.org/dtr/type/nonNumeric-2009-12-16.xsd" namespace="http://www.xbrl.org/dtr/type/non-numeric"/>
+  <xsd:annotation>
+    <xsd:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="janx-20210630_lab.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:title="Labels link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="janx-20210630_pre.xml" xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef" xlink:title="Presentation link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="janx-20210630_def.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:title="Definition link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="janx-20210630_cal.xml" xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef" xlink:title="Calculation link" xlink:type="simple"/>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DocumentDocumentAndEntityInformation" id="Role_DocumentDocumentAndEntityInformation">
+        <link:definition>100000 - Document - Document and Entity Information</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_StatementCondensedBalanceSheets" id="Role_StatementCondensedBalanceSheets">
+        <link:definition>100010 - Statement - Condensed Balance Sheets</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_StatementCondensedBalanceSheetsParenthetical" id="Role_StatementCondensedBalanceSheetsParenthetical">
+        <link:definition>100020 - Statement - Condensed Balance Sheets (Parenthetical)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_StatementUnauditedCondensedStatementsOfOperationsAndComprehensiveLoss" id="Role_StatementUnauditedCondensedStatementsOfOperationsAndComprehensiveLoss">
+        <link:definition>100030 - Statement - Unaudited Condensed Statements of Operations and Comprehensive Loss</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_StatementUnauditedCondensedStatementsOfOperationsAndComprehensiveLossParenthetical" id="Role_StatementUnauditedCondensedStatementsOfOperationsAndComprehensiveLossParenthetical">
+        <link:definition>100040 - Statement - Unaudited Condensed Statements of Operations and Comprehensive Loss (Parenthetical)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_StatementUnauditedCondensedStatementsOfConvertiblePreferredStockAndStockholdersEquityDeficit" id="Role_StatementUnauditedCondensedStatementsOfConvertiblePreferredStockAndStockholdersEquityDeficit">
+        <link:definition>100050 - Statement - Unaudited Condensed Statements of Convertible Preferred Stock and Stockholders' Equity (Deficit)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_StatementUnauditedCondensedStatementsOfConvertiblePreferredStockAndStockholdersEquityDeficitParenthetical" id="Role_StatementUnauditedCondensedStatementsOfConvertiblePreferredStockAndStockholdersEquityDeficitParenthetical">
+        <link:definition>100060 - Statement - Unaudited Condensed Statements of Convertible Preferred Stock and Stockholders' Equity (Deficit) (Parenthetical)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_StatementUnauditedCondensedStatementsOfCashFlows" id="Role_StatementUnauditedCondensedStatementsOfCashFlows">
+        <link:definition>100070 - Statement - Unaudited Condensed Statements of Cash Flows</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_StatementUnauditedCondensedStatementsOfCashFlowsParenthetical" id="Role_StatementUnauditedCondensedStatementsOfCashFlowsParenthetical">
+        <link:definition>100080 - Statement - Unaudited Condensed Statements of Cash Flows (Parenthetical)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPolicies" id="Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPolicies">
+        <link:definition>100090 - Disclosure - Organization and Summary of Significant Accounting Policies</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureBalanceSheetDetails" id="Role_DisclosureBalanceSheetDetails">
+        <link:definition>100100 - Disclosure - Balance Sheet Details</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureCommitmentsAndContingencies" id="Role_DisclosureCommitmentsAndContingencies">
+        <link:definition>100110 - Disclosure - Commitments and Contingencies</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureRelatedPartyTransactions" id="Role_DisclosureRelatedPartyTransactions">
+        <link:definition>100120 - Disclosure - Related Party Transactions</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficit" id="Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficit">
+        <link:definition>100130 - Disclosure - Convertible Preferred Stock and Stockholders&#8217; Equity (Deficit)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureResearchCollaborationAndExclusiveLicenseAgreement" id="Role_DisclosureResearchCollaborationAndExclusiveLicenseAgreement">
+        <link:definition>100140 - Disclosure - Research Collaboration and Exclusive License Agreement</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_Disclosure401KPlan" id="Role_Disclosure401KPlan">
+        <link:definition>100150 - Disclosure - 401 (k) Plan</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesPolicies" id="Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesPolicies">
+        <link:definition>100160 - Disclosure - Organization and Summary of Significant Accounting Policies (Policies)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesTables" id="Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesTables">
+        <link:definition>100170 - Disclosure - Organization and Summary of Significant Accounting Policies (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureBalanceSheetDetailsTables" id="Role_DisclosureBalanceSheetDetailsTables">
+        <link:definition>100180 - Disclosure - Balance Sheet Details (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureRelatedPartyTransactionsTables" id="Role_DisclosureRelatedPartyTransactionsTables">
+        <link:definition>100190 - Disclosure - Related Party Transactions (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitTables" id="Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitTables">
+        <link:definition>100200 - Disclosure - Convertible Preferred Stock and Stockholders&#8217; Equity (Deficit) (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesAdditionalInformationDetails" id="Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesAdditionalInformationDetails">
+        <link:definition>100210 - Disclosure - Organization and Summary of Significant Accounting Policies - Additional Information (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesSummaryOfFinancialInstrumentsMeasuredAtFairValueOnRecurringBasisDetails" id="Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesSummaryOfFinancialInstrumentsMeasuredAtFairValueOnRecurringBasisDetails">
+        <link:definition>100220 - Disclosure - Organization and Summary of Significant Accounting Policies - Summary of Financial Instruments Measured at Fair Value on Recurring Basis (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesSummaryOfShortTermInvestmentsDetails" id="Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesSummaryOfShortTermInvestmentsDetails">
+        <link:definition>100230 - Disclosure - Organization and Summary of Significant Accounting Policies - Summary of Short-Term Investments (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesSummaryOfPotentiallyDilutiveSharesNotIncludedInCalculationOfNetLossPerShareDetails" id="Role_DisclosureOrganizationAndSummaryOfSignificantAccountingPoliciesSummaryOfPotentiallyDilutiveSharesNotIncludedInCalculationOfNetLossPerShareDetails">
+        <link:definition>100240 - Disclosure - Organization and Summary of Significant Accounting Policies - Summary of Potentially Dilutive Shares Not Included in the Calculation of Net Loss Per Share (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureBalanceSheetDetailsScheduleOfPropertyAndEquipmentNetDetails" id="Role_DisclosureBalanceSheetDetailsScheduleOfPropertyAndEquipmentNetDetails">
+        <link:definition>100250 - Disclosure - Balance Sheet Details - Schedule of Property and Equipment, Net (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureBalanceSheetDetailsScheduleOfAccruedLiabilitiesDetails" id="Role_DisclosureBalanceSheetDetailsScheduleOfAccruedLiabilitiesDetails">
+        <link:definition>100260 - Disclosure - Balance Sheet Details - Schedule of Accrued Liabilities (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureBalanceSheetDetailsScheduleOfAccruedLiabilitiesParentheticalDetails" id="Role_DisclosureBalanceSheetDetailsScheduleOfAccruedLiabilitiesParentheticalDetails">
+        <link:definition>100270 - Disclosure - Balance Sheet Details - Schedule of Accrued Liabilities (Parenthetical) (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureCommitmentsAndContingenciesAdditionalInformationDetails" id="Role_DisclosureCommitmentsAndContingenciesAdditionalInformationDetails">
+        <link:definition>100280 - Disclosure - Commitments and Contingencies - Additional Information (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureRelatedPartyTransactionsSummaryOfExpenseRecognizedBySupportServicesAgreementWithCOIDetails" id="Role_DisclosureRelatedPartyTransactionsSummaryOfExpenseRecognizedBySupportServicesAgreementWithCOIDetails">
+        <link:definition>100290 - Disclosure - Related Party Transactions - Summary of Expense Recognized by Support Services Agreement with COI (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureRelatedPartyTransactionsAdditionalInformationDetails" id="Role_DisclosureRelatedPartyTransactionsAdditionalInformationDetails">
+        <link:definition>100300 - Disclosure - Related Party Transactions - Additional Information (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitAdditionalInformationDetails" id="Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitAdditionalInformationDetails">
+        <link:definition>100310 - Disclosure - Convertible Preferred Stock and Stockholders' Equity (Deficit) - Additional Information (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitSummaryOfStockOptionActivityDetails" id="Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitSummaryOfStockOptionActivityDetails">
+        <link:definition>100320 - Disclosure - Convertible Preferred Stock and Stockholders' Equity (Deficit) - Summary of Stock Option Activity (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitSummaryOfFairValueOfStockOptionGrantsDetails" id="Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitSummaryOfFairValueOfStockOptionGrantsDetails">
+        <link:definition>100330 - Disclosure - Convertible Preferred Stock and Stockholders' Equity (Deficit) - Summary of Fair Value of Stock Option Grants (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitSummaryOfStockBasedCompensationExpenseDetails" id="Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitSummaryOfStockBasedCompensationExpenseDetails">
+        <link:definition>100340 - Disclosure - Convertible Preferred Stock and Stockholders' Equity (Deficit) - Summary of Stock-Based Compensation Expense (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitSummaryOfUnvestedSharesAndUnvestedStockLiabilityDetails" id="Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitSummaryOfUnvestedSharesAndUnvestedStockLiabilityDetails">
+        <link:definition>100350 - Disclosure - Convertible Preferred Stock and Stockholders' Equity (Deficit) - Summary of Unvested Shares and Unvested Stock Liability (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitSummaryOfCommonStockReservedForFutureIssuanceDetails" id="Role_DisclosureConvertiblePreferredStockAndStockholdersEquityDeficitSummaryOfCommonStockReservedForFutureIssuanceDetails">
+        <link:definition>100360 - Disclosure - Convertible Preferred Stock and Stockholders' Equity (Deficit) - Summary of Common Stock Reserved for Future Issuance (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureResearchCollaborationAndExclusiveLicenseAgreementAdditionalInformationDetail" id="Role_DisclosureResearchCollaborationAndExclusiveLicenseAgreementAdditionalInformationDetail">
+        <link:definition>100370 - Disclosure - Research Collaboration and Exclusive License Agreement - Additional Information (Detail)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_DisclosureResearchCollaborationAndExclusiveLicenseAgreementAdditionalInformation1Detail" id="Role_DisclosureResearchCollaborationAndExclusiveLicenseAgreementAdditionalInformation1Detail">
+        <link:definition>100380 - Disclosure - Research Collaboration and Exclusive License Agreement - Additional Information 1 (Detail)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.januxrx.com/20210630/taxonomy/role/Role_Disclosure401KPlanAdditionalInformationDetail" id="Role_Disclosure401KPlanAdditionalInformationDetail">
+        <link:definition>100390 - Disclosure - 401 (k) Plan - Additional Information (Detail)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+    </xsd:appinfo>
+  </xsd:annotation>
+  <xsd:element id="janx_ResearchCollaborationAndExclusiveLicenseAgreementAbstract" name="ResearchCollaborationAndExclusiveLicenseAgreementAbstract" type="xbrli:stringItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_UnvestedStockLiabilityAbstract" name="UnvestedStockLiabilityAbstract" type="xbrli:stringItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_AccruedEquityIssuanceCosts" name="AccruedEquityIssuanceCosts" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" nillable="true" abstract="false" xbrli:balance="credit"/>
+  <xsd:element id="janx_AccruedExpensesIncludesRelatedPartyAmounts" name="AccruedExpensesIncludesRelatedPartyAmounts" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false" xbrli:balance="debit"/>
+  <xsd:element id="janx_AccruedLiabilitiesRelatedPartiesCurrent" name="AccruedLiabilitiesRelatedPartiesCurrent" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" nillable="true" abstract="false" xbrli:balance="credit"/>
+  <xsd:element id="janx_AccruedResearchAndDevelopmentExpenses" name="AccruedResearchAndDevelopmentExpenses" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" nillable="true" abstract="false" xbrli:balance="credit"/>
+  <xsd:element id="janx_CommonStockCapitalSharesInitiallyReservedForFutureIssuance" name="CommonStockCapitalSharesInitiallyReservedForFutureIssuance" type="xbrli:sharesItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" nillable="true" abstract="false"/>
+  <xsd:element id="janx_ConversionOfConvertiblePromissoryNotesAndAccruedInterestIntoSharesOfConvertiblePreferredStock" name="ConversionOfConvertiblePromissoryNotesAndAccruedInterestIntoSharesOfConvertiblePreferredStock" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false" xbrli:balance="credit"/>
+  <xsd:element id="janx_FairMarketValuePercentagePriceOfCommonStockPurchased" name="FairMarketValuePercentagePriceOfCommonStockPurchased" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false"/>
+  <xsd:element id="janx_MaximumPaymentToBuyOutRoyaltyObligation" name="MaximumPaymentToBuyOutRoyaltyObligation" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false" xbrli:balance="credit"/>
+  <xsd:element id="janx_MinimumIncreaseInSharesReservedForIssuance" name="MinimumIncreaseInSharesReservedForIssuance" type="xbrli:sharesItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false"/>
+  <xsd:element id="janx_NonRefundableLicenseFeePaid" name="NonRefundableLicenseFeePaid" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false" xbrli:balance="debit"/>
+  <xsd:element id="janx_PercentageOfEligibleEarningsWithheldToPurchaseSharesOfCommonStock" name="PercentageOfEligibleEarningsWithheldToPurchaseSharesOfCommonStock" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false"/>
+  <xsd:element id="janx_PercentageOfNumberOfCommonStockShares" name="PercentageOfNumberOfCommonStockShares" type="num:percentItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false"/>
+  <xsd:element id="janx_PrepaidExpensesAndOtherCurrentAssetsIncludesRelatedPartyAmounts" name="PrepaidExpensesAndOtherCurrentAssetsIncludesRelatedPartyAmounts" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false" xbrli:balance="debit"/>
+  <xsd:element id="janx_PrepaidExpensesAndOtherCurrentAssetsRelatedPartiesCurrent" name="PrepaidExpensesAndOtherCurrentAssetsRelatedPartiesCurrent" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" nillable="true" abstract="false" xbrli:balance="debit"/>
+  <xsd:element id="janx_ProceedsFromIssuanceOfConvertiblePromissoryNotes" name="ProceedsFromIssuanceOfConvertiblePromissoryNotes" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false" xbrli:balance="debit"/>
+  <xsd:element id="janx_ProceedsFromStockIssuanceCosts" name="ProceedsFromStockIssuanceCosts" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false" xbrli:balance="debit"/>
+  <xsd:element id="janx_ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsEarlyExercisedShares" name="ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsEarlyExercisedShares" type="xbrli:sharesItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false"/>
+  <xsd:element id="janx_TemporaryEquityStockIssuedDuringPeriodSharesNewIssues" name="TemporaryEquityStockIssuedDuringPeriodSharesNewIssues" type="xbrli:sharesItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false"/>
+  <xsd:element id="janx_UnvestedStockLiability" name="UnvestedStockLiability" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="instant" nillable="true" abstract="false" xbrli:balance="credit"/>
+  <xsd:element id="janx_UnvestedStockLiabilityEarlyExercisedShares" name="UnvestedStockLiabilityEarlyExercisedShares" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false" xbrli:balance="credit"/>
+  <xsd:element id="janx_UnvestedStockLiabilityVestedShares" name="UnvestedStockLiabilityVestedShares" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false" xbrli:balance="credit"/>
+  <xsd:element id="janx_VestingOfRestrictedCommonStock" name="VestingOfRestrictedCommonStock" type="xbrli:monetaryItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false" xbrli:balance="credit"/>
+  <xsd:element id="janx_CommitmentsAndContingenciesLineItems" name="CommitmentsAndContingenciesLineItems" type="xbrli:stringItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_CommonStockReservedForFutureIssuanceLineItems" name="CommonStockReservedForFutureIssuanceLineItems" type="xbrli:stringItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_AccruedCompensationMember" name="AccruedCompensationMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_AccruedResearchAndDevelopmentMember" name="AccruedResearchAndDevelopmentMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_CellLineLicenseAgreementMember" name="CellLineLicenseAgreementMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_COIPharmaceuticalsIncMember" name="COIPharmaceuticalsIncMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_CommonStockOptionsOutstandingMember" name="CommonStockOptionsOutstandingMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_CommonStockOutstandingMember" name="CommonStockOutstandingMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_ConversionOfPreferredStockMember" name="ConversionOfPreferredStockMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_MerckAgreementMember" name="MerckAgreementMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_RelatedPartyMember" name="RelatedPartyMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_SeriesAConvertiblePreferredStockMember" name="SeriesAConvertiblePreferredStockMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_SeriesBConvertiblePreferredStockMember" name="SeriesBConvertiblePreferredStockMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_SeriesSeed2ConvertiblePreferredStockMember" name="SeriesSeed2ConvertiblePreferredStockMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_SharesAvailableForIssuanceUnderESPPMember" name="SharesAvailableForIssuanceUnderESPPMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_SharesAvailableForIssuanceUnderPlansMember" name="SharesAvailableForIssuanceUnderPlansMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_SupportServicesAgreementMember" name="SupportServicesAgreementMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_TwoThousandSeventeenEquityIncentivePlanMember" name="TwoThousandSeventeenEquityIncentivePlanMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_TwoThousandTwentyOneEmployeeStockPurchasePlanMember" name="TwoThousandTwentyOneEmployeeStockPurchasePlanMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_TwoThousandTwentyOneEquityIncentivePlanMember" name="TwoThousandTwentyOneEquityIncentivePlanMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_UnvestedCommonStockMember" name="UnvestedCommonStockMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_WuXiBiologicsMember" name="WuXiBiologicsMember" type="nonnum:domainItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_ForwardStockSplitPolicyTextBlock" name="ForwardStockSplitPolicyTextBlock" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false"/>
+  <xsd:element id="janx_LiquidityAndCapitalResourcesPolicyTextBlock" name="LiquidityAndCapitalResourcesPolicyTextBlock" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false"/>
+  <xsd:element id="janx_OrganizationPolicyTextBlock" name="OrganizationPolicyTextBlock" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false"/>
+  <xsd:element id="janx_CommitmentsAndContingenciesTable" name="CommitmentsAndContingenciesTable" type="xbrli:stringItemType" substitutionGroup="xbrldt:hypercubeItem" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_CommonStockReservedForFutureIssuanceTable" name="CommonStockReservedForFutureIssuanceTable" type="xbrli:stringItemType" substitutionGroup="xbrldt:hypercubeItem" xbrli:periodType="duration" nillable="true" abstract="true"/>
+  <xsd:element id="janx_ScheduleOfUnvestedSharesAndUnvestedStockLiabilityTableTextBlock" name="ScheduleOfUnvestedSharesAndUnvestedStockLiabilityTableTextBlock" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false"/>
+  <xsd:element id="janx_SummaryOfCommonStockReservedForFutureIssuanceTableTextBlock" name="SummaryOfCommonStockReservedForFutureIssuanceTableTextBlock" type="nonnum:textBlockItemType" substitutionGroup="xbrli:item" xbrli:periodType="duration" nillable="true" abstract="false"/>
+</xsd:schema>

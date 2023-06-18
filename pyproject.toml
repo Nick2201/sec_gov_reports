@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "get-reports"
+version = "0.1.0"
+description = ""
+authors = ["Nick <nicklisits@gmail.com>"]
+readme = "README.md"
+packages = [
+    {include = "get_reports"},
+    { include = "get_reports/src/versions/v2" }]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.0.1"
+bs4 = "^0.0.1"
+sqlalchemy = "^2.0.15"
+psycopg2 = "^2.9.6"
+xlrd = "^2.0.1"
+workbook = "^1.1"
+openpyxl = "^3.1.2"
+xlwings = "^0.30.9"
+pyexcel = "^0.7.0"
+pyexcel-xls = "^0.7.0"
+xls2xlsx = "^0.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+v1_extract = "get_reports.src.versions.xml_doc.extract:extract"

@@ -1,0 +1,1130 @@
+﻿MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Microsoft Internet Explorer.
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Workbook.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta name=3D"Excel Workbook Frameset">
+
+<meta name=3DProgId content=3DExcel.Sheet>
+<link rel=3DFile-List href=3D"Worksheets/filelist.xml">
+
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Document_and_Entity_Informatio</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet01.html"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Condensed_Consolidated_Balance</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet02.html"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Condensed_Consolidated_Balance1</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet03.html"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Condensed_Consolidated_Stateme</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet04.html"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Condensed_Consolidated_Stateme1</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet05.html"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Condensed_Consolidated_Stateme2</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet06.html"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Interim_Financial_Statements</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet07.html"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Intangible_Assets</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet08.html"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Notes_Payable</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet09.html"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Liquidity</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet10.html"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Fair_Value_of_Financial_Instru</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet11.html"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Stock_Based_Compensation</x:Name>
+    <x:WorksheetSource HRef=3D"Worksheets/Sheet12.html"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"Worksheets/report.css"/>
+  <x:ActiveSheet>0</x:ActiveSheet>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+  <body>
+   <p>This page should be opened with Microsoft Excel XP or newer.</p>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet01.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EEQAE>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D2><strong>Document and Entity Information<br></strong></th>
+        <th class=3Dth colspan=3D1>3 Months Ended</th>
+        <th class=3Dth colspan=3D1></th>
+      </tr>
+      <tr>
+        <th class=3Dth>Mar. 31, 2012<br></th>
+        <th class=3Dth>May 15, 2012<br></th>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Entity Information [Line Items]</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Entity Registrant Name</td>
+        <td class=3Dtext>ACCESS PHARMACEUTICALS INC<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Entity Central Index Key</td>
+        <td class=3Dtext>0000318306<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Current Fiscal Year End Date</td>
+        <td class=3Dtext>--12-31<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Entity Well-known Seasoned Issuer</td>
+        <td class=3Dtext>No<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Entity Voluntary Filers</td>
+        <td class=3Dtext>No<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Entity Current Reporting Status</td>
+        <td class=3Dtext>Yes<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Entity Filer Category</td>
+        <td class=3Dtext>Smaller Reporting Company<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Entity Common Stock, Shares Outstanding</td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dnump>24,155,785<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Document Fiscal Year Focus</td>
+        <td class=3Dtext>2012<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Document Fiscal Period Focus</td>
+        <td class=3Dtext>Q1<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Document Type</td>
+        <td class=3Dtext>10-Q<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Amendment Flag</td>
+        <td class=3Dtext>false<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Document Period End Date</td>
+        <td class=3Dtext>Mar 31,
+		2012<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Drh>
+        <td class=3Dpl valign=3Dtop>Series A Convertible Preferred Stock [Member]</td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop><strong>Entity Information [Line Items]</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Entity Common Stock, Shares Outstanding</td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dnump>2,938.3617<span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet02.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EQMAG>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D1><strong>Condensed Consolidated Balance Sheets (unaudited) (USD $)<br></strong></th>
+        <th class=3Dth>Mar. 31, 2012<br></th>
+        <th class=3Dth>Dec. 31, 2011<br></th>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Current assets</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Cash and cash equivalents</td>
+        <td class=3Dnump>$ 1,365,000<span></span></td>
+        <td class=3Dnump>$ 2,460,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Receivables</td>
+        <td class=3Dnump>934,000<span></span></td>
+        <td class=3Dnump>333,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Inventory</td>
+        <td class=3Dnump>97,000<span></span></td>
+        <td class=3Dnump>151,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Restricted cash</td>
+        <td class=3Dnump>330,000<span></span></td>
+        <td class=3Dnump>330,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Prepaid expenses and other current assets</td>
+        <td class=3Dnump>43,000<span></span></td>
+        <td class=3Dnump>39,000<span></span></td>
+      </tr>
+      <tr class=3Dreu>
+        <td class=3Dpl valign=3Dtop>Total current assets</td>
+        <td class=3Dnump>2,769,000<span></span></td>
+        <td class=3Dnump>3,313,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Property and equipment, net</td>
+        <td class=3Dnump>59,000<span></span></td>
+        <td class=3Dnump>51,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Patents, net</td>
+        <td class=3Dnump>313,000<span></span></td>
+        <td class=3Dnump>362,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Other assets</td>
+        <td class=3Dnump>55,000<span></span></td>
+        <td class=3Dnump>59,000<span></span></td>
+      </tr>
+      <tr class=3Dreu>
+        <td class=3Dpl valign=3Dtop>Total assets</td>
+        <td class=3Dnump>3,196,000<span></span></td>
+        <td class=3Dnump>3,785,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop><strong>Current liabilities</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Accounts payable</td>
+        <td class=3Dnump>1,878,000<span></span></td>
+        <td class=3Dnump>1,713,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Accrued expenses</td>
+        <td class=3Dnump>857,000<span></span></td>
+        <td class=3Dnump>857,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Dividends payable</td>
+        <td class=3Dnump>7,000,000<span></span></td>
+        <td class=3Dnump>6,487,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Accrued interest payable</td>
+        <td class=3Dnump>181,000<span></span></td>
+        <td class=3Dnump>98,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Debt</td>
+        <td class=3Dnump>2,750,000<span></span></td>
+        <td class=3Dnump>2,750,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Current portion of deferred revenue</td>
+        <td class=3Dnump>239,000<span></span></td>
+        <td class=3Dnump>285,000<span></span></td>
+      </tr>
+      <tr class=3Dreu>
+        <td class=3Dpl valign=3Dtop>Total current liabilities</td>
+        <td class=3Dnump>12,905,000<span></span></td>
+        <td class=3Dnump>12,190,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Derivative liability - warrants</td>
+        <td class=3Dnump>766,000<span></span></td>
+        <td class=3Dnump>1,507,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Derivative liability - preferred stock</td>
+        <td class=3Dnump>6,890,000<span></span></td>
+        <td class=3Dnump>4,430,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Long-term deferred revenue</td>
+        <td class=3Dnump>2,798,000<span></span></td>
+        <td class=3Dnump>3,264,000<span></span></td>
+      </tr>
+      <tr class=3Dreu>
+        <td class=3Dpl valign=3Dtop>Total liabilities</td>
+        <td class=3Dnump>23,359,000<span></span></td>
+        <td class=3Dnump>21,391,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Commitments and contingencies</td>
+        <td class=3Dtext>&nbsp;&nbsp;<span></span></td>
+        <td class=3Dtext>&nbsp;&nbsp;<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Stockholders' deficit</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Convertible Series A preferred stock - $.01 par value; authorized 2,000,000 shares; 2,938.3617 shares issued at March 31,2012 and 2,938.3617 shares issued at December 31, 2011</td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Common stock - $.01 par value; authorized 100,000,000 shares; issued, 24,145,488 at March 31, 2012 and 23,890,787 at December 31, 2011</td>
+        <td class=3Dnump>241,000<span></span></td>
+        <td class=3Dnump>239,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Additional paid-in capital</td>
+        <td class=3Dnump>240,373,000<span></span></td>
+        <td class=3Dnump>237,600,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Treasury stock, at cost - 163 shares</td>
+        <td class=3Dnum>(4,000)<span></span></td>
+        <td class=3Dnum>(4,000)<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Accumulated deficit</td>
+        <td class=3Dnum>(260,773,000)<span></span></td>
+        <td class=3Dnum>(255,441,000)<span></span></td>
+      </tr>
+      <tr class=3Dreu>
+        <td class=3Dpl valign=3Dtop>Total stockholders' deficit</td>
+        <td class=3Dnum>(20,163,000)<span></span></td>
+        <td class=3Dnum>(17,606,000)<span></span></td>
+      </tr>
+      <tr class=3Drou>
+        <td class=3Dpl valign=3Dtop>Total liabilities and stockholders' deficit</td>
+        <td class=3Dnump>$ 3,196,000<span></span></td>
+        <td class=3Dnump>$ 3,785,000<span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet03.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EAMAC>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D1><strong>Condensed Consolidated Balance Sheets (unaudited) (Parenthetical) (USD $)<br></strong></th>
+        <th class=3Dth>Mar. 31, 2012<br></th>
+        <th class=3Dth>Dec. 31, 2011<br></th>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Stockholders' deficit</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Convertible preferred stock, par value (in dollars per share)</td>
+        <td class=3Dnump>$ 0.01<span></span></td>
+        <td class=3Dnump>$ 0.01<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Convertible preferred stock, authorized (in shares)</td>
+        <td class=3Dnump>2,000,000<span></span></td>
+        <td class=3Dnump>2,000,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Convertible preferred stock, shares issued (in shares)</td>
+        <td class=3Dnump>2,938.3617<span></span></td>
+        <td class=3Dnump>2,938.3617<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Common stock, par value (in dollars per share)</td>
+        <td class=3Dnump>$ 0.01<span></span></td>
+        <td class=3Dnump>$ 0.01<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Common stock, shares authorized (in shares)</td>
+        <td class=3Dnump>100,000,000<span></span></td>
+        <td class=3Dnump>100,000,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Common stock, shares issued (in shares)</td>
+        <td class=3Dnump>24,145,488<span></span></td>
+        <td class=3Dnump>23,890,787<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Treasury stock, shares (in shares)</td>
+        <td class=3Dnump>163<span></span></td>
+        <td class=3Dnump>163<span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet04.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EYEAG>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D2><strong>Condensed Consolidated Statements of Operations (unaudited) (USD $)<br></strong></th>
+        <th class=3Dth colspan=3D2>3 Months Ended</th>
+      </tr>
+      <tr>
+        <th class=3Dth>Mar. 31, 2012<br></th>
+        <th class=3Dth>Mar. 31, 2011<br></th>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Revenues</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>License revenues</td>
+        <td class=3Dnump>$ 1,262,000<span></span></td>
+        <td class=3Dnump>$ 87,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Product sales</td>
+        <td class=3Dnump>572,000<span></span></td>
+        <td class=3Dnump>13,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Royalties</td>
+        <td class=3Dnump>21,000<span></span></td>
+        <td class=3Dnump>20,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Sponsored research and development</td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>30,000<span></span></td>
+      </tr>
+      <tr class=3Drou>
+        <td class=3Dpl valign=3Dtop>Total revenues</td>
+        <td class=3Dnump>1,855,000<span></span></td>
+        <td class=3Dnump>150,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Expenses</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Research and development</td>
+        <td class=3Dnump>974,000<span></span></td>
+        <td class=3Dnump>1,120,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Product costs</td>
+        <td class=3Dnump>537,000<span></span></td>
+        <td class=3Dnump>92,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>General and administrative</td>
+        <td class=3Dnump>979,000<span></span></td>
+        <td class=3Dnump>1,026,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Depreciation and amortization</td>
+        <td class=3Dnump>54,000<span></span></td>
+        <td class=3Dnump>61,000<span></span></td>
+      </tr>
+      <tr class=3Drou>
+        <td class=3Dpl valign=3Dtop>Total expenses</td>
+        <td class=3Dnump>2,544,000<span></span></td>
+        <td class=3Dnump>2,299,000<span></span></td>
+      </tr>
+      <tr class=3Dreu>
+        <td class=3Dpl valign=3Dtop>Loss from operations</td>
+        <td class=3Dnum>(689,000)<span></span></td>
+        <td class=3Dnum>(2,149,000)<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Interest and miscellaneous income</td>
+        <td class=3Dnump>1,000<span></span></td>
+        <td class=3Dnump>5,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Interest and other expense</td>
+        <td class=3Dnum>(169,000)<span></span></td>
+        <td class=3Dnum>(167,000)<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Warrant extension expense</td>
+        <td class=3Dnum>(2,316,000)<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Gain on change in fair value of derivative-warrants</td>
+        <td class=3Dnump>741,000<span></span></td>
+        <td class=3Dnump>1,235,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Loss on change in fair value of derivative - preferred stock</td>
+        <td class=3Dnum>(2,460,000)<span></span></td>
+        <td class=3Dnum>(823,000)<span></span></td>
+      </tr>
+      <tr class=3Dreu>
+        <td class=3Dpl valign=3Dtop>Total non operating income (expense)</td>
+        <td class=3Dnum>(4,203,000)<span></span></td>
+        <td class=3Dnump>250,000<span></span></td>
+      </tr>
+      <tr class=3Drou>
+        <td class=3Dpl valign=3Dtop>Net income (loss)</td>
+        <td class=3Dnum>(4,892,000)<span></span></td>
+        <td class=3Dnum>(1,899,000)<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Less preferred stock dividends</td>
+        <td class=3Dnump>440,000<span></span></td>
+        <td class=3Dnump>438,000<span></span></td>
+      </tr>
+      <tr class=3Drou>
+        <td class=3Dpl valign=3Dtop>Net income (loss) allocable to common stockholders</td>
+        <td class=3Dnum>$ (5,332,000)<span></span></td>
+        <td class=3Dnum>$ (2,337,000)<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Net income (loss) per share</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Basic (in dollars per share)</td>
+        <td class=3Dnum>$ (0.22)<span></span></td>
+        <td class=3Dnum>$ (0.12)<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Diluted (in dollars per share)</td>
+        <td class=3Dnum>$ (0.22)<span></span></td>
+        <td class=3Dnum>$ (0.12)<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop><strong>Weighted average number of common shares outstanding</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Basic (in shares)</td>
+        <td class=3Dnump>24,145,488<span></span></td>
+        <td class=3Dnump>19,241,570<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Diluted (in shares)</td>
+        <td class=3Dnump>24,145,488<span></span></td>
+        <td class=3Dnump>19,241,570<span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet05.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EF5BG>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D1><strong>Condensed Consolidated Statements of Stockholders' Deficit (unaudited) (USD $)<br></strong></th>
+        <th class=3Dth>Common Stock [Member]<br></th>
+        <th class=3Dth>Preferred Stock [Member]<br></th>
+        <th class=3Dth>Additional paid-in capital [Member]<br></th>
+        <th class=3Dth>Treasury stock [Member]<br></th>
+        <th class=3Dth>Accumulated deficit [Member]<br></th>
+        <th class=3Dth>Total<br></th>
+      </tr>
+      <tr class=3Drc>
+        <td class=3Dpl valign=3Dtop>Balance at Dec. 31, 2011</td>
+        <td class=3Dnump>$ 239,000<span></span></td>
+        <td class=3Dnump>$ 0<span></span></td>
+        <td class=3Dnump>$ 237,600,000<span></span></td>
+        <td class=3Dnum>$ (4,000)<span></span></td>
+        <td class=3Dnum>$ (255,441,000)<span></span></td>
+        <td class=3Dnum>$ (17,606,000)<span></span></td>
+      </tr>
+      <tr class=3Drc>
+        <td class=3Dpl valign=3Dtop>Balance (in shares) at Dec. 31, 2011</td>
+        <td class=3Dnump>23,891,000<span></span></td>
+        <td class=3Dnump>2,938.3617<span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Restricted common stock issued for services</td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>21,000<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Restricted common stock issued for services (in shares)</td>
+        <td class=3Dnump>15,000<span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Common stock issued for services</td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>9,000<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Common stock issued for services (in shares)</td>
+        <td class=3Dnump>6,000<span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Common stock issued to directors and employees</td>
+        <td class=3Dnump>2,000<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>300,000<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>302,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Common Stock Issued To Directors And Employees (in shares)</td>
+        <td class=3Dnump>222,000<span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Common stock issued for preferred dividends</td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>13,000<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Common stock issued for preferred dividends (in shares)</td>
+        <td class=3Dnump>11,000<span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dnump>13,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Stock option compensation expense</td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>114,000<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Warrant extension expense</td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>2,316,000<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Preferred dividends</td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnum>(440,000)<span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Net loss</td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnum>(4,892,000)<span></span></td>
+        <td class=3Dnum>(4,892,000)<span></span></td>
+      </tr>
+      <tr class=3Drc>
+        <td class=3Dpl valign=3Dtop>Balance at Mar. 31, 2012</td>
+        <td class=3Dnump>$ 241,000<span></span></td>
+        <td class=3Dnump>$ 0<span></span></td>
+        <td class=3Dnump>$ 240,373,000<span></span></td>
+        <td class=3Dnum>$ (4,000)<span></span></td>
+        <td class=3Dnum>$ (260,773,000)<span></span></td>
+        <td class=3Dnum>$ (20,163,000)<span></span></td>
+      </tr>
+      <tr class=3Drc>
+        <td class=3Dpl valign=3Dtop>Balance (in shares) at Mar. 31, 2012</td>
+        <td class=3Dnump>24,145,000<span></span></td>
+        <td class=3Dnump>2,938.3617<span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet06.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EUJAG>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D2><strong>Condensed Consolidated Statements of Cash Flows (unaudited) (USD $)<br></strong></th>
+        <th class=3Dth colspan=3D2>3 Months Ended</th>
+      </tr>
+      <tr>
+        <th class=3Dth>Mar. 31, 2012<br></th>
+        <th class=3Dth>Mar. 31, 2011<br></th>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Cash flows from operating activities:</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Net loss</td>
+        <td class=3Dnum>$ (4,892,000)<span></span></td>
+        <td class=3Dnum>$ (1,899,000)<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Adjustments to reconcile net loss to cash used in operating activities:</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Gain on change in fair value of derivative - warrants</td>
+        <td class=3Dnum>(741,000)<span></span></td>
+        <td class=3Dnum>(1,235,000)<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Loss on change in fair value of derivative - preferred stock</td>
+        <td class=3Dnump>2,460,000<span></span></td>
+        <td class=3Dnump>823,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Warrant extension expense</td>
+        <td class=3Dnump>2,316,000<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Depreciation and amortization</td>
+        <td class=3Dnump>54,000<span></span></td>
+        <td class=3Dnump>61,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Stock option compensation expense</td>
+        <td class=3Dnump>114,000<span></span></td>
+        <td class=3Dnump>181,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Stock issued to directors and employees</td>
+        <td class=3Dnump>302,000<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Stock issued for services</td>
+        <td class=3Dnump>30,000<span></span></td>
+        <td class=3Dnump>246,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Change in operating assets and liabilities:</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Receivables</td>
+        <td class=3Dnum>(601,000)<span></span></td>
+        <td class=3Dnump>972,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Inventory</td>
+        <td class=3Dnump>54,000<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Prepaid expenses and other current assets</td>
+        <td class=3Dnum>(4,000)<span></span></td>
+        <td class=3Dnump>21,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Other assets</td>
+        <td class=3Dnump>4,000<span></span></td>
+        <td class=3Dnump>4,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Accounts payable and accrued expenses</td>
+        <td class=3Dnump>165,000<span></span></td>
+        <td class=3Dnum>(92,000)<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Dividends payable</td>
+        <td class=3Dnump>86,000<span></span></td>
+        <td class=3Dnump>61,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Accrued interest payable</td>
+        <td class=3Dnump>83,000<span></span></td>
+        <td class=3Dnump>106,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Deferred revenue</td>
+        <td class=3Dnum>(512,000)<span></span></td>
+        <td class=3Dnum>(86,000)<span></span></td>
+      </tr>
+      <tr class=3Drou>
+        <td class=3Dpl valign=3Dtop>Net cash used in operating activities</td>
+        <td class=3Dnum>(1,082,000)<span></span></td>
+        <td class=3Dnum>(837,000)<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Cash flows from investing activities:</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Capital expenditures</td>
+        <td class=3Dnum>(13,000)<span></span></td>
+        <td class=3Dnum>(22,000)<span></span></td>
+      </tr>
+      <tr class=3Dreu>
+        <td class=3Dpl valign=3Dtop>Net cash used in investing activities</td>
+        <td class=3Dnum>(13,000)<span></span></td>
+        <td class=3Dnum>(22,000)<span></span></td>
+      </tr>
+      <tr class=3Drou>
+        <td class=3Dpl valign=3Dtop>Net increase (decrease) in cash and cash equivalents</td>
+        <td class=3Dnum>(1,095,000)<span></span></td>
+        <td class=3Dnum>(859,000)<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Cash and cash equivalents at beginning of period</td>
+        <td class=3Dnump>2,460,000<span></span></td>
+        <td class=3Dnump>7,033,000<span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Cash and cash equivalents at end of period</td>
+        <td class=3Dnump>1,365,000<span></span></td>
+        <td class=3Dnump>6,174,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Supplemental cash flow information:</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Cash paid for interest</td>
+        <td class=3Dnump>0<span></span></td>
+        <td class=3Dnump>0<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Supplemental disclosure of noncash transactions:</strong></td>
+        <td class=3Dtext><span></span></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Shares issued for dividends on preferred stock</td>
+        <td class=3Dnump>13,000<span></span></td>
+        <td class=3Dnump>1,000<span></span></td>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop>Preferred stock dividends in dividends payable</td>
+        <td class=3Dnump>$ 440,000<span></span></td>
+        <td class=3Dnump>$ 438,000<span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet07.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EME>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D2><strong>Interim Financial Statements<br></strong></th>
+        <th class=3Dth colspan=3D1>3 Months Ended</th>
+      </tr>
+      <tr>
+        <th class=3Dth>Mar. 31, 2012<br></th>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Interim Financial Statements [Abstract]</strong></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Interim Financial Statements</td>
+        <td class=3Dtext><div><div><table align=3Dcenter border=3D0 cellpadding=3D0 cellspacing=3D0 style=3D'width: 100%; font-family: times new roman; font-size: 10pt;'><tr valign=3Dtop><td style=3D'width: 36pt;'><div style=3D'text-indent: 0pt; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; font-weight: bold; margin-right: 0pt;'>(1)</div></td><td><div style=3D'text-align: justify; font-family: Times New Roman; font-size: 12pt; font-weight: bold;'>Interim Financial Statements</div></td></tr></table></div><div style=3D'text-indent: 0pt; display: block;'><br /></div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 10pt; margin-right: 0pt;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>The condensed consolidated balance sheet as of March 31, 2012, the condensed consolidated statements of operations for the three months ended March 31, 2012 and 2011, the condensed consolidated statements of stockholders deficit for the three months ended March 31, 2012, and the condensed consolidated statements of cash flows for the three months ended March 31, 2012 and 2011, were prepared by management without audit. In the opinion of management, all adjustments, consisting only of normal recurring adjustments, except as otherwise disclosed, necessary for the fair presentation of the financial position, results of operations, and changes in financial position for such periods, have been made. <div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America have been condensed or omitted. It is suggested that these interim financial statements be read in conjunction with the consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended December 31, 2011. The results of operations for the period ended March 31, 2012 are not necessarily indicative of the operating results which may be expected for a full year. The condensed consolidated balance sheet as of December 31, 2011 contains financial information taken from the audited Access financial statements as of that date.</div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>The report of our independent registered public accounting firm for the fiscal year ended December 31, 2011, contained a fourth explanatory paragraph to reflect its significant doubt about our ability to continue as a going concern as a result of our history of losses and our liquidity position, as discussed therein and in this Quarterly Report on Form 10-Q. We expect that our capital resources, revenues from MuGard sales and expected receipts due under our license agreements will be adequate to fund our current level of operations into the third quarter of 2012. If we are unable to obtain adequate capital funding in the future or enter into future license agreements for our products, we may not be able to continue as a going concern, which would have an adverse effect on our business and operations, and investors' investment in us may decline.</div></div></div></div><span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet08.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EME>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D2><strong>Intangible Assets<br></strong></th>
+        <th class=3Dth colspan=3D1>3 Months Ended</th>
+      </tr>
+      <tr>
+        <th class=3Dth>Mar. 31, 2012<br></th>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Intangible Assets [Abstract]</strong></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Intangible Assets</td>
+        <td class=3Dtext><div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; font-weight: bold; margin-right: 0pt;'>(2)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Intangible Assets</div><div style=3D'text-indent: 0pt; display: block;'><br /></div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 10pt; margin-right: 0pt;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Intangible assets consist of the following (in thousands): <div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: left;'><table cellpadding=3D0 cellspacing=3D0 style=3D'width: 98%; font-family: times new roman; font-size: 12pt;'><tr><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 50%; font-family: times new roman; font-size: 12pt;'>&#160; </td><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D6 valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 22%;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>March 31, 2012</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D6 valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 22%;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>December 31, 2011</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 50%; font-family: times new roman; font-size: 12pt;'>&#160; </td><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 10%;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Gross</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>carrying</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>value</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 10%;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Accumulated</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>amortization</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 10%;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Gross</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>carrying</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>value</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 10%;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Accumulated</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Amortization</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'text-align: center; text-indent: 0pt; padding-left: 0pt; width: 50%; margin-left: 446pt; margin-right: 0pt;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 144pt; font-size: 12pt; margin-right: 0pt;'>Amortizable intangible assets</div><div style=3D'text-align: center; text-indent: 0pt; display: block; margin-left: 72pt; margin-right: 0pt;'>&#160;</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 72pt; font-size: 12pt; margin-right: 0pt;'>&#160;&#160;&#160;&#160;&#160;&#160;&#160; Patents</div></td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>&#160;2,624</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>&#160;2,311</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>&#160;2,624</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>&#160;2,262</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr></table></div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Amortization expense related to intangible assets totaled $49,000 for the three months ended March 31, 2012 and totaled $53,000 for the three ended March 31, 2011. The aggregate estimated amortization expense for intangible assets remaining as of March 31, 2012 is as follows (in thousands):</div><div>&#160;</div><div style=3D'text-align: left; margin-left: 90pt;'><table bgcolor=3Dwhite cellpadding=3D0 cellspacing=3D0 style=3D'text-align: left; width: 25%; font-family: times new roman; font-size: 12pt;'><tr style=3D'text-align: left;'><td valign=3Dbottom style=3D'width: 11%; font-family: times new roman; font-size: 12pt;'>&#160;2012</td><td valign=3Dbottom style=3D'width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 11%; font-family: times new roman; font-size: 12pt;'>33</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 11%; font-family: times new roman; font-size: 12pt;'>&#160;2013</td><td valign=3Dbottom style=3D'width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: right; width: 11%; font-family: times new roman; font-size: 12pt;'>44</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 11%; font-family: times new roman; font-size: 12pt;'>&#160;2014</td><td valign=3Dbottom style=3D'width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: right; width: 11%; font-family: times new roman; font-size: 12pt;'>44</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 11%; font-family: times new roman; font-size: 12pt;'>&#160;2015</td><td valign=3Dbottom style=3D'width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: right; width: 11%; font-family: times new roman; font-size: 12pt;'>44</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 11%; font-family: times new roman; font-size: 12pt;'>&#160;2016</td><td valign=3Dbottom style=3D'width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: right; width: 11%; font-family: times new roman; font-size: 12pt;'>44</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 11%; font-family: times new roman; font-size: 12pt;'>&#160;<font size=3D3 style=3D'font-family: times new roman; font-size: 12pt;'>over 5 years </font></td><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: right; width: 11%; font-family: times new roman; font-size: 12pt;'>104</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 11%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: right; width: 11%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'padding-bottom: 4px; width: 11%; font-family: times new roman; font-size: 12pt;'>&#160;Total </td><td valign=3Dbottom style=3D'padding-bottom: 4px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; padding-bottom: 4px; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'border-bottom: black 4px double; text-align: right; width: 11%; font-family: times new roman; font-size: 12pt;'>313</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 4px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr></table></div></div></div></div><span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet09.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EME>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D2><strong>Notes Payable<br></strong></th>
+        <th class=3Dth colspan=3D1>3 Months Ended</th>
+      </tr>
+      <tr>
+        <th class=3Dth>Mar. 31, 2012<br></th>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Notes Payable [Abstract]</strong></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Notes Payable</td>
+        <td class=3Dtext><div><div style=3D'text-align: left; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; font-weight: bold; margin-right: 0pt;'>(3)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Notes Payable</div><div style=3D'text-indent: 0pt; display: block;'><br /></div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>&#160;As of March 31, 2012, we had one&#160;secured note outstanding in the principal amount of $2,750,000. The note is due on September 13, 2012.</div></div><span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet10.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EME>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D2><strong>Liquidity<br></strong></th>
+        <th class=3Dth colspan=3D1>3 Months Ended</th>
+      </tr>
+      <tr>
+        <th class=3Dth>Mar. 31, 2012<br></th>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Liquidity [Abstract]</strong></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Liquidity</td>
+        <td class=3Dtext><div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; font-weight: bold; margin-right: 0pt;'>(4)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Liquidity</div><div style=3D'text-indent: 0pt; display: block;'><br /><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; font-weight: normal; margin-right: 0pt;'><font style=3D'display: inline; font-family: times new roman; font-size: 12pt; font-weight: normal;'><font style=3D'display: inline; font-family: times new roman; font-size: 12pt; font-weight: normal;'>The Company generated net loss allocable to common stockholders of $5,332,000 for the three months ended March 31, 2012 and a loss of $4</font><font style=3D'display: inline; font-family: times new roman; font-size: 12pt; font-weight: normal;'>,</font><font style=3D'display: inline; font-family: times new roman; font-size: 12pt; font-weight: normal;'>306,000 for the year ended December 31, 2011. At March 31, 2012, our working capital deficit was $10,136,000. </font>As of March 31, 2012, we had one secured note outstanding in the principal amount of $2,750,000. The note is due on September 13, 2012. Management believes that our current cash, revenues from MuGard sales and expected license fees should fund our expected burn rate into the third quarter of 2012. We will require additional funds to continue operations. These funds are expected to come from the future sales of equity and/or license agreements. If we are unable to obtain adequate capital funding in the future or enter into future license agreements for our products, we may not be able to continue as a going concern, which would have an adverse effect on our business and operations, and investors' investment in us may decline.</font></div></div></div><span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet11.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EME>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D2><strong>Fair Value of Financial Instruments<br></strong></th>
+        <th class=3Dth colspan=3D1>3 Months Ended</th>
+      </tr>
+      <tr>
+        <th class=3Dth>Mar. 31, 2012<br></th>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Fair Value of Financial Instruments [Abstract]</strong></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Fair Value of Financial Instruments</td>
+        <td class=3Dtext><div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; font-weight: bold; margin-right: 0pt;'>(5)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Fair Value of Financial Instruments</div><div style=3D'text-indent: 0pt; display: block;'><br /><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>The carrying value of&#160;cash equivalents, receivables, accounts payable and accruals approximate fair value due to the short maturity of these items. The carrying value of the convertible long-term debt is at book value which approximates the fair value as the interest rate is at market value.</div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Effective January 1, 2008, we adopted fair value measurement guidance issued by the FASB related to financial assets and liabilities which define fair value as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants at the measurement date. This guidance establishes a three-level fair value hierarchy that prioritizes the inputs used to measure fair value. The hierarchy requires entities to maximize the use of observable inputs and minimize the use of unobservable inputs. The three levels of inputs used to measure fair value are as follows:</div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div><table cellpadding=3D0 cellspacing=3D0 style=3D'width: 100%; font-family: times new roman; font-size: 12pt;'><tr valign=3Dtop><td style=3D'text-align: center; width: 27pt;'><div style=3D'text-align: center; font-family: Times New Roman; font-size: 10pt;'>&#9679;</div></td><td><div style=3D'text-align: justify; text-indent: 0pt; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Level 1 - Quoted prices in active markets for identical assets or liabilities.</div></td></tr></table></div><div><table cellpadding=3D0 cellspacing=3D0 style=3D'width: 100%; font-family: times new roman; font-size: 12pt;'><tr valign=3Dtop><td style=3D'text-align: center; width: 27pt;'><div style=3D'text-align: center; font-family: Times New Roman; font-size: 10pt;'>&#9679;</div></td><td><div style=3D'text-align: justify; text-indent: 0pt; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Level 2 - Observable inputs other than quoted prices included in Level 1, such as quoted prices for similar assets and liabilities in active markets; quoted prices for identical or similar assets and liabilities in markets that are not active; or other inputs that are observable or can be corroborated by observable market data.</div></td></tr></table></div><div><table cellpadding=3D0 cellspacing=3D0 style=3D'width: 100%; font-family: times new roman; font-size: 12pt;'><tr valign=3Dtop><td style=3D'text-align: center; width: 27pt;'><div style=3D'text-align: center; font-family: Times New Roman; font-size: 10pt;'>&#9679;</div></td><td><div style=3D'text-align: justify; text-indent: 0pt; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Level 3 - Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets and liabilities. This includes certain pricing models, discounted cash flow methodologies and similar valuation techniques that use significant unobservable inputs.</div></td></tr></table></div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>The guidance requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.</div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>We have segregated all financial assets and liabilities that are measured at fair value on a recurring basis (at least annually) into the most appropriate level within the fair value hierarchy based on the inputs used to determine the fair value at the measurement date in the table below.</div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Financial assets and liabilities measured at fair value on a recurring basis as of March 31, 2012 and December 31, 2011 are summarized below:</div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: left;'><table cellpadding=3D0 cellspacing=3D0 style=3D'width: 100%; font-family: times new roman; font-size: 12pt;'><tr><td valign=3Dbottom style=3D'width: 40%;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt; text-decoration: underline;'>(in thousands)</div></td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'width: 10%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'width: 10%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'width: 10%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'width: 10%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'width: 10%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 40%;'><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt;'>Description</div></td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 10%;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>As of</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>March 31, 2012</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 10%;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Level 1</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 10%;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Level 2</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 10%;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Level 3</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid; width: 10%;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Total Gains</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>(Losses)</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 40%;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt;'>Liabilities:</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt;'>&#160;&#160;Derivative liability-</div></td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'width: 10%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'width: 10%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'width: 10%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'width: 10%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'width: 10%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 40%;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt;'>&#160;&#160;&#160;&#160;warrants</div></td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>766</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>-</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>766</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>-</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>741</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 40%;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt;'>&#160;&#160;&#160;&#160;preferred stock</div></td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>6,890</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>-</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>-</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>6,890</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>(2,460</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>)</td></tr></table></div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: left;'><table cellpadding=3D0 cellspacing=3D0 style=3D'width: 100%; font-family: times new roman; font-size: 12pt;'><tr><td valign=3Dbottom><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt; text-decoration: underline;'>(in thousands)</div></td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'border-bottom: black 2px solid;'><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt;'>Description</div></td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>As of</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>December 31, 2011</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid;'><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Level 1</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid;'><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Level 2</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid;'><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Level 3</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Total Gains</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>(Losses)</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt;'>Liabilities:</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt;'>&#160;&#160;Derivative liability-</div></td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 40%;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt;'>&#160;&#160;&#160;&#160;warrants</div></td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>1,507</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>-</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>1,507</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>-</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>3,580</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 40%;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 36pt; font-size: 12pt; margin-right: 0pt;'>&#160;&#160;&#160;&#160;preferred stock</div></td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>4,430</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>-</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>-</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>4,430</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>1,410</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr></table></div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>In order to calculate the Level 3 Derivative liability - preferred stock, we used the Monte Carlo simulation to estimate future stock prices. The use of valuation techniques requires the Company to make various key assumptions for inputs into the model, including assumptions about the expected future volatility of the price of the Company's stock. In estimating the fair value at March 31, 2012 and December 31, 2011, we based our selected volatility on the one-year historic volatility of the Company's stock as we believe this is most representative of the expected volatility in the near future for the Company.</div></div></div><span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/Sheet12.html
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+  <head>
+    <META http-equiv=3DContent-Type content=3D'text/html; charset=utf-8'><script type=3Dtext/javascript src=3DShow.js>/* Do Not Remove This Comment */</script></head>
+  <body>
+    <table class=3Dreport id=3DID0EME>
+      <tr>
+        <th class=3Dtl colspan=3D1 rowspan=3D2><strong>Stock Based Compensation<br></strong></th>
+        <th class=3Dth colspan=3D1>3 Months Ended</th>
+      </tr>
+      <tr>
+        <th class=3Dth>Mar. 31, 2012<br></th>
+      </tr>
+      <tr class=3Dre>
+        <td class=3Dpl valign=3Dtop><strong>Stock Based Compensation [Abstract]</strong></td>
+        <td class=3Dtext><span></span></td>
+      </tr>
+      <tr class=3Dro>
+        <td class=3Dpl valign=3Dtop>Stock Based Compensation</td>
+        <td class=3Dtext><div><div style=3D'text-align: left; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 10pt; font-weight: bold; margin-right: 0pt;'><font style=3D'font-size: 12pt;'>&#160;(6)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Stock Based Compensation</font></div><div style=3D'text-indent: 0pt; display: block;'><br /><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>For the three months ended March 31, 2012, we recognized stock-based compensation expense of $114,000. For the three months ended March 31, 2011 we recognized stock-based compensation expense of $181,000.</div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>The following table summarizes stock-based compensation for the three months ended March 31, 2012 and 2011:</div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: center;'><table cellpadding=3D0 cellspacing=3D0 style=3D'width: 61%; font-family: times new roman; font-size: 12pt;'><tr><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 35%; font-family: times new roman; font-size: 12pt;'>&#160; </td><td align=3Dleft valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D6 valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: center; text-indent: 0pt; width: 24%; margin-left: 0pt; margin-right: 0pt;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Three months ended</div><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'><font style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>March 31,</font></div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 35%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td align=3Dleft valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D6 valign=3Dbottom style=3D'text-align: center; text-indent: 0pt; width: 24%; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'padding-bottom: 2px; width: 35%; font-family: times new roman; font-size: 12pt;'>&#160; </td><td align=3Dleft valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: center; text-indent: 0pt; width: 11%; margin-left: 0pt; margin-right: 0pt;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>2012</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td align=3Dleft valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: center; text-indent: 0pt; width: 11%; margin-left: 0pt; margin-right: 0pt;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'><font style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>2011</font></div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'text-align: left; text-indent: 0pt; width: 35%; margin-left: 0pt; margin-right: 0pt;'><div style=3D'text-align: left; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Research and development</div></td><td align=3Dleft valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 10%; font-family: times new roman; font-size: 12pt;'>73,000</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td align=3Dleft valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'text-align: right; width: 10%; font-family: times new roman; font-size: 12pt;'>103,000</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; text-indent: 0pt; width: 35%; margin-left: 0pt; margin-right: 0pt;'><div style=3D'text-align: left; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>General and administrative</div></td><td align=3Dleft valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: right; width: 10%; font-family: times new roman; font-size: 12pt;'><font style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>41,000</font></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td align=3Dleft valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: right; width: 10%; font-family: times new roman; font-size: 12pt;'><font style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>78,000</font></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; text-indent: 0pt; width: 35%; margin-left: 0pt; margin-right: 0pt;'><div style=3D'text-align: left; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Stock-based compensation expense</div><div style=3D'text-align: left; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>&#160;&#160;&#160;included in operating expense</div></td><td align=3Dleft valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: right; width: 10%; font-family: times new roman; font-size: 12pt;'><font style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>114,000</font></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td align=3Dleft valign=3Dbottom style=3D'padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>$</td><td valign=3Dbottom style=3D'border-bottom: black 2px solid; text-align: right; width: 10%; font-family: times new roman; font-size: 12pt;'><font style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>181,000</font></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr></table></div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>For the three months ended March 31, 2012 we granted no stock options. For the three months ended March 31, 2011 we granted 100,000 stock options.</div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: Times New Roman; margin-left: 0pt; font-size: 12pt; margin-right: 0pt;'>Our weighted average Black-Scholes fair value assumptions used to value the grants made in the first three months of 2012 and 2011&#160;are as follows:</div><div style=3D'text-align: justify; text-indent: 0pt; display: block; margin-left: 0pt; margin-right: 0pt;'>&#160;</div><div style=3D'text-align: left;'><table cellpadding=3D0 cellspacing=3D0 style=3D'width: 100%; font-family: times new roman; font-size: 12pt;'><tr><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160; </td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'padding-bottom: 2px; font-family: times new roman; font-size: 12pt;'>&#160; </td><td valign=3Dbottom style=3D'padding-bottom: 2px; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 12pt; margin-right: 0pt;'>3/31/12</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'padding-bottom: 2px; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'border-bottom: black 2px solid;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 12pt; margin-right: 0pt;'>3/31/11</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; padding-bottom: 2px; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom><div style=3D'text-align: justify; text-indent: -18pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 12pt; margin-right: 0pt;'>Expected life<font style=3D'display: inline; font-size: 70%; vertical-align: text-top;'>(b)</font></div></td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'text-align: center;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 12pt; margin-right: 0pt;'>0 yrs</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td colspan=3D2 valign=3Dbottom style=3D'text-align: center;'><div style=3D'text-align: center; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 12pt; margin-right: 0pt;'>6.25 yrs</div></td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr><tr><td valign=3Dbottom style=3D'width: 76%;'><div style=3D'text-align: justify; text-indent: -18pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 12pt; margin-right: 0pt;'>Risk free interest rate</div></td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: center; width: 9%; font-family: times new roman; font-size: 12pt;'>0.0 </td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>%</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: center; width: 9%; font-family: times new roman; font-size: 12pt;'>1.1 </td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>%</td></tr><tr><td valign=3Dbottom style=3D'width: 76%;'><div style=3D'text-align: justify; text-indent: -18pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 12pt; margin-right: 0pt;'>Expected volatility<font style=3D'display: inline; font-size: 70%; vertical-align: text-top;'>(a)</font></div></td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: center; width: 9%; font-family: times new roman; font-size: 12pt;'>0.0 </td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>%&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: center; width: 9%; font-family: times new roman; font-size: 12pt;'>112 </td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>%</td></tr><tr><td valign=3Dbottom style=3D'width: 76%;'><div style=3D'text-align: justify; text-indent: -18pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 12pt; margin-right: 0pt;'>Expected dividend yield</div></td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: center; width: 9%; font-family: times new roman; font-size: 12pt;'>0.0 </td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>%</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: center; width: 9%; font-family: times new roman; font-size: 12pt;'>0.0 </td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>%</td></tr><tr><td valign=3Dbottom style=3D'width: 76%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160; </td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'width: 1%; display: inline; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td valign=3Dbottom style=3D'text-align: right; width: 9%; font-family: times new roman; font-size: 12pt;'>&#160;</td><td nowrap=3Dnowrap valign=3Dbottom style=3D'text-align: left; width: 1%; font-family: times new roman; font-size: 12pt;'>&#160;</td></tr></table></div><div style=3D'text-align: justify; text-indent: 0pt; display: block; margin-left: 18pt; margin-right: 0pt;'><hr noshade=3Dnoshade size=3D1 style=3D'text-align: center; width: 100%; color: black;' /></div><div><table cellpadding=3D0 cellspacing=3D0 style=3D'width: 100%; font-family: times new roman; font-size: 12pt;'><tr><td align=3Dleft valign=3Dtop style=3D'width: 4%;'><div style=3D'text-align: left; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 70%; vertical-align: text-top; margin-right: 0pt;'>(a)</div></td><td valign=3Dtop style=3D'width: 70%;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 12pt; margin-right: 0pt;'>Reflects movements in our stock price over the most recent historical period equivalent to the expected life.</div></td></tr><tr><td valign=3Dtop style=3D'width: 4%;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 70%; vertical-align: text-top; margin-right: 0pt;'>(b)</div></td><td valign=3Dtop style=3D'width: 70%;'><div style=3D'text-align: justify; text-indent: 0pt; display: block; font-family: times new roman; margin-left: 18pt; font-size: 12pt; margin-right: 0pt;'>Based on the simplified method.</div></td></tr></table></div><div style=3D'text-indent: 0pt; display: block;'>&#160;</div></div></div><span></span></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c
+Content-Location: file:///C:/68aa164a_228a_40c3_a677_8e5f9641068c/Worksheets/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../Workbook.html"/>
+ <o:File HRef=3D"Sheet01.html"/>
+ <o:File HRef=3D"Sheet02.html"/>
+ <o:File HRef=3D"Sheet03.html"/>
+ <o:File HRef=3D"Sheet04.html"/>
+ <o:File HRef=3D"Sheet05.html"/>
+ <o:File HRef=3D"Sheet06.html"/>
+ <o:File HRef=3D"Sheet07.html"/>
+ <o:File HRef=3D"Sheet08.html"/>
+ <o:File HRef=3D"Sheet09.html"/>
+ <o:File HRef=3D"Sheet10.html"/>
+ <o:File HRef=3D"Sheet11.html"/>
+ <o:File HRef=3D"Sheet12.html"/>
+</xml>
+------=_NextPart_68aa164a_228a_40c3_a677_8e5f9641068c--

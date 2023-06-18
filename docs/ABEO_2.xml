@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FilingSummary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>2.3.0.15</Version>
+  <ProcessingTime />
+  <ReportFormat>Html</ReportFormat>
+  <ReportType />
+  <ContextCount>45</ContextCount>
+  <ElementCount>109</ElementCount>
+  <EntityCount>1</EntityCount>
+  <FootnotesReported>false</FootnotesReported>
+  <SegmentCount>5</SegmentCount>
+  <ScenarioCount>0</ScenarioCount>
+  <TuplesReported>false</TuplesReported>
+  <UnitCount>3</UnitCount>
+  <MyReports>
+    <Report>
+      <IsDefault>true</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R1.htm</HtmlFileName>
+      <LongName>000990 - Document - Document And Entity Information</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/DocumentAndEntityInformation</Role>
+      <ShortName>Document And Entity Information</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R2.htm</HtmlFileName>
+      <LongName>001000 - Statement - Condensed Consolidated Balance Sheets (Unaudited)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/CondensedConsolidatedBalanceSheetsUnaudited</Role>
+      <ShortName>Condensed Consolidated Balance Sheets (Unaudited)</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R3.htm</HtmlFileName>
+      <LongName>001010 - Statement - Condensed Consolidated Balance Sheets (Unaudited) (Parenthetical)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/CondensedConsolidatedBalanceSheetsUnauditedParenthetical</Role>
+      <ShortName>Condensed Consolidated Balance Sheets (Unaudited) (Parenthetical)</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R4.htm</HtmlFileName>
+      <LongName>002000 - Statement - Condensed Consolidated Statements of Operations (Unaudited)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/CondensedConsolidatedStatementsOfOperationsUnaudited</Role>
+      <ShortName>Condensed Consolidated Statements of Operations (Unaudited)</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R5.htm</HtmlFileName>
+      <LongName>003000 - Statement - Condensed Consolidated Statements of Stockholders' Deficit (Unaudited)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/CondensedConsolidatedStatementsOfStockholdersDeficitUnaudited</Role>
+      <ShortName>Condensed Consolidated Statements of Stockholders' Deficit (Unaudited)</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R6.htm</HtmlFileName>
+      <LongName>004000 - Statement - Condensed Consolidated Statements of Cash Flows (Unaudited)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/CondensedConsolidatedStatementsOfCashFlowsUnaudited</Role>
+      <ShortName>Condensed Consolidated Statements of Cash Flows (Unaudited)</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R7.htm</HtmlFileName>
+      <LongName>006010 - Disclosure - Interim Financial Statements</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/InterimFinancialStatements</Role>
+      <ShortName>Interim Financial Statements</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R8.htm</HtmlFileName>
+      <LongName>006020 - Disclosure - Intangible Assets</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/IntangibleAssets</Role>
+      <ShortName>Intangible Assets</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R9.htm</HtmlFileName>
+      <LongName>006030 - Disclosure - Notes Payable</LongName>
+      <ReportType>Notes</ReportType>
+      <Role>http://accesspharma.com/role/NotesPayable</Role>
+      <ShortName>Notes Payable</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R10.htm</HtmlFileName>
+      <LongName>006040 - Disclosure - Liquidity</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/Liquidity</Role>
+      <ShortName>Liquidity</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R11.htm</HtmlFileName>
+      <LongName>006050 - Disclosure - Fair Value of Financial Instruments</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/FairValueOfFinancialInstruments</Role>
+      <ShortName>Fair Value of Financial Instruments</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R12.htm</HtmlFileName>
+      <LongName>006060 - Disclosure - Stock Based Compensation</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/StockBasedCompensation</Role>
+      <ShortName>Stock Based Compensation</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <HtmlFileName>R13.htm</HtmlFileName>
+      <LongName>006070 - Disclosure - Subsequent Events (Unaudited)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://accesspharma.com/role/SubsequentEventsUnaudited</Role>
+      <ShortName>Subsequent Events (Unaudited)</ShortName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ContainEmbeddedReports>false</ContainEmbeddedReports>
+      <LongName>All Reports</LongName>
+      <ReportType>Book</ReportType>
+      <ShortName>All Reports</ShortName>
+    </Report>
+  </MyReports>
+  <Logs>
+    <Log type="Info">Element us-gaap_SharesOutstanding had a mix of decimals attribute values: 4 0.</Log>
+    <Log type="Info">Element us-gaap_StockIssuedDuringPeriodSharesConversionOfConvertibleSecurities had a mix of decimals attribute values: 4 0.</Log>
+    <Log type="Info">Element us-gaap_SharesOutstanding had a mix of decimals attribute values: 4 0.</Log>
+    <Log type="Info">Process Flow-Through: 001000 - Statement - Condensed Consolidated Balance Sheets (Unaudited)</Log>
+    <Log type="Info">	Process Flow-Through: Removing column 'Sep. 30, 2010'</Log>
+    <Log type="Info">	Process Flow-Through: Removing column 'Dec. 31, 2009'</Log>
+    <Log type="Info">Process Flow-Through: 001010 - Statement - Condensed Consolidated Balance Sheets (Unaudited) (Parenthetical)</Log>
+    <Log type="Info">Process Flow-Through: 002000 - Statement - Condensed Consolidated Statements of Operations (Unaudited)</Log>
+    <Log type="Info">Process Flow-Through: 004000 - Statement - Condensed Consolidated Statements of Cash Flows (Unaudited)</Log>
+  </Logs>
+  <InputFiles>
+    <File>accp-20110930.xml</File>
+    <File>accp-20110930.xsd</File>
+    <File>accp-20110930_cal.xml</File>
+    <File>accp-20110930_def.xml</File>
+    <File>accp-20110930_lab.xml</File>
+    <File>accp-20110930_pre.xml</File>
+  </InputFiles>
+  <SupplementalFiles />
+  <BaseTaxonomies />
+  <HasPresentationLinkbase>true</HasPresentationLinkbase>
+  <HasCalculationLinkbase>true</HasCalculationLinkbase>
+</FilingSummary>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FilingSummary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.0.3</Version>
+  <ReportType />
+  <MyReports>
+    <Report>
+      <IsDefault>true</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>1000 - Statement - CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS</LongName>
+      <ShortName>CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS</ShortName>
+      <XmlFileName>R1.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>2000 - Statement - CONDENSED CONSOLIDATED BALANCE SHEET</LongName>
+      <ShortName>CONDENSED CONSOLIDATED BALANCE SHEET</ShortName>
+      <XmlFileName>R2.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>2100 - Statement - PARENTHETICAL DATA TO CONDENSED CONSOLIDATED BALANCE SHEET</LongName>
+      <ShortName>PARENTHETICAL DATA TO CONDENSED CONSOLIDATED BALANCE SHEET</ShortName>
+      <XmlFileName>R3.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>3000 - Statement - CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS</LongName>
+      <ShortName>CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS</ShortName>
+      <XmlFileName>R4.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6010 - Disclosure - OVERVIEW, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES</LongName>
+      <ShortName>OVERVIEW, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES</ShortName>
+      <XmlFileName>R5.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6020 - Disclosure - NEW ACCOUNTING PRONOUNCEMENTS</LongName>
+      <ShortName>NEW ACCOUNTING PRONOUNCEMENTS</ShortName>
+      <XmlFileName>R6.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6030 - Disclosure - SHARE BASED COMPENSATION</LongName>
+      <ShortName>SHARE BASED COMPENSATION</ShortName>
+      <XmlFileName>R7.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6040 - Disclosure - PROVISION FOR TAXES</LongName>
+      <ShortName>PROVISION FOR TAXES</ShortName>
+      <XmlFileName>R8.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6050 - Disclosure - NET INCOME (LOSS) PER SHARE</LongName>
+      <ShortName>NET INCOME (LOSS) PER SHARE</ShortName>
+      <XmlFileName>R9.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6060 - Disclosure - INVENTORY</LongName>
+      <ShortName>INVENTORY</ShortName>
+      <XmlFileName>R10.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6070 - Disclosure - GOODWILL AND OTHER INTANGIBLE ASSETS</LongName>
+      <ShortName>GOODWILL AND OTHER INTANGIBLE ASSETS</ShortName>
+      <XmlFileName>R11.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6080 - Disclosure - FAIR VALUE MEASUREMENTS</LongName>
+      <ShortName>FAIR VALUE MEASUREMENTS</ShortName>
+      <XmlFileName>R12.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6090 - Disclosure - DERIVATIVES</LongName>
+      <ShortName>DERIVATIVES</ShortName>
+      <XmlFileName>R13.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6100 - Disclosure - RESTRUCTURING COSTS, ASSET IMPAIRMENTS AND OTHER SPECIAL CHARGES</LongName>
+      <ShortName>RESTRUCTURING COSTS, ASSET IMPAIRMENTS AND OTHER SPECIAL CHARGES</ShortName>
+      <XmlFileName>R14.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6110 - Disclosure - PENSION PLANS AND OTHER POST RETIREMENT BENEFIT PLANS</LongName>
+      <ShortName>PENSION PLANS AND OTHER POST RETIREMENT BENEFIT PLANS</ShortName>
+      <XmlFileName>R15.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6120 - Disclosure - WARRANTIES</LongName>
+      <ShortName>WARRANTIES</ShortName>
+      <XmlFileName>R16.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6130 - Disclosure - SHORT TERM DEBT</LongName>
+      <ShortName>SHORT TERM DEBT</ShortName>
+      <XmlFileName>R17.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Notes</ReportType>
+      <LongName>6140 - Disclosure - SENIOR NOTES</LongName>
+      <ShortName>SENIOR NOTES</ShortName>
+      <XmlFileName>R18.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6150 - Disclosure - LONG TERM DEBT AND LONG TERM RESTRICTED CASH AND CASH EQUIVALENTS</LongName>
+      <ShortName>LONG TERM DEBT AND LONG TERM RESTRICTED CASH AND CASH EQUIVALENTS</ShortName>
+      <XmlFileName>R19.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6160 - Disclosure - COMPREHENSIVE INCOME (LOSS)</LongName>
+      <ShortName>COMPREHENSIVE INCOME (LOSS)</ShortName>
+      <XmlFileName>R20.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6170 - Disclosure - STOCK REPURCHASE PROGRAM</LongName>
+      <ShortName>STOCK REPURCHASE PROGRAM</ShortName>
+      <XmlFileName>R21.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>6180 - Disclosure - SEGMENT INFORMATION</LongName>
+      <ShortName>SEGMENT INFORMATION</ShortName>
+      <XmlFileName>R22.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>995200 - Document - Document Information</LongName>
+      <ShortName>Document Information</ShortName>
+      <XmlFileName>R23.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Sheet</ReportType>
+      <LongName>995400 - Document - Entity Information</LongName>
+      <ShortName>Entity Information</ShortName>
+      <XmlFileName>R24.xml</XmlFileName>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <ReportType>Book</ReportType>
+      <LongName>All Reports</LongName>
+      <ShortName>All Reports</ShortName>
+      <XmlFileName />
+    </Report>
+  </MyReports>
+  <EntityCount>1</EntityCount>
+  <ContextCount>9</ContextCount>
+  <SegmentCount>0</SegmentCount>
+  <ScenarioCount>0</ScenarioCount>
+  <UnitCount>3</UnitCount>
+  <ElementCount>125</ElementCount>
+  <FootnotesReported>false</FootnotesReported>
+  <TuplesReported>false</TuplesReported>
+  <ContextSummary>
+    <ContextSummary>
+      <ContextName>c00003</ContextName>
+      <ElementCount>41</ElementCount>
+    </ContextSummary>
+    <ContextSummary>
+      <ContextName>c00001</ContextName>
+      <ElementCount>20</ElementCount>
+    </ContextSummary>
+    <ContextSummary>
+      <ContextName>c00002</ContextName>
+      <ElementCount>54</ElementCount>
+    </ContextSummary>
+    <ContextSummary>
+      <ContextName>c00008</ContextName>
+      <ElementCount>1</ElementCount>
+    </ContextSummary>
+    <ContextSummary>
+      <ContextName>c00004</ContextName>
+      <ElementCount>40</ElementCount>
+    </ContextSummary>
+    <ContextSummary>
+      <ContextName>c00005</ContextName>
+      <ElementCount>20</ElementCount>
+    </ContextSummary>
+    <ContextSummary>
+      <ContextName>c00007</ContextName>
+      <ElementCount>1</ElementCount>
+    </ContextSummary>
+    <ContextSummary>
+      <ContextName>c00000</ContextName>
+      <ElementCount>83</ElementCount>
+    </ContextSummary>
+    <ContextSummary>
+      <ContextName>c00006</ContextName>
+      <ElementCount>1</ElementCount>
+    </ContextSummary>
+  </ContextSummary>
+  <BaseTaxonomies />
+  <HasPresentationLinkbase>true</HasPresentationLinkbase>
+  <HasCalculationLinkbase>true</HasCalculationLinkbase>
+</FilingSummary>

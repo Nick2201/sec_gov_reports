@@ -1,0 +1,661 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FilingSummary>
+  <Version>3.21.2</Version>
+  <ProcessingTime/>
+  <ReportFormat>html</ReportFormat>
+  <ContextCount>449</ContextCount>
+  <ElementCount>330</ElementCount>
+  <EntityCount>1</EntityCount>
+  <FootnotesReported>true</FootnotesReported>
+  <SegmentCount>102</SegmentCount>
+  <ScenarioCount>0</ScenarioCount>
+  <TuplesReported>false</TuplesReported>
+  <UnitCount>5</UnitCount>
+  <MyReports>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R1.htm</HtmlFileName>
+      <LongName>0001001 - Document - Cover Page</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/CoverPage</Role>
+      <ShortName>Cover Page</ShortName>
+      <MenuCategory>Cover</MenuCategory>
+      <Position>1</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R2.htm</HtmlFileName>
+      <LongName>1001002 - Statement - Consolidated Condensed Statements of Income</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ConsolidatedCondensedStatementsofIncome</Role>
+      <ShortName>Consolidated Condensed Statements of Income</ShortName>
+      <MenuCategory>Statements</MenuCategory>
+      <Position>2</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R3.htm</HtmlFileName>
+      <LongName>1002003 - Statement - Consolidated Condensed Statements of Comprehensive Income</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ConsolidatedCondensedStatementsofComprehensiveIncome</Role>
+      <ShortName>Consolidated Condensed Statements of Comprehensive Income</ShortName>
+      <MenuCategory>Statements</MenuCategory>
+      <Position>3</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R4.htm</HtmlFileName>
+      <LongName>1003004 - Statement - Consolidated Condensed Balance Sheets</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ConsolidatedCondensedBalanceSheets</Role>
+      <ShortName>Consolidated Condensed Balance Sheets</ShortName>
+      <MenuCategory>Statements</MenuCategory>
+      <Position>4</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R5.htm</HtmlFileName>
+      <LongName>1004005 - Statement - Consolidated Condensed Balance Sheets (Parenthetical)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ConsolidatedCondensedBalanceSheetsParenthetical</Role>
+      <ShortName>Consolidated Condensed Balance Sheets (Parenthetical)</ShortName>
+      <MenuCategory>Statements</MenuCategory>
+      <Position>5</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R6.htm</HtmlFileName>
+      <LongName>1005006 - Statement - Consolidated Condensed Statements of Cash Flows</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ConsolidatedCondensedStatementsofCashFlows</Role>
+      <ShortName>Consolidated Condensed Statements of Cash Flows</ShortName>
+      <MenuCategory>Statements</MenuCategory>
+      <Position>6</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R7.htm</HtmlFileName>
+      <LongName>1006007 - Statement - Consolidated Condensed Statements of Stockholders' Equity Statement</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ConsolidatedCondensedStatementsofStockholdersEquityStatement</Role>
+      <ShortName>Consolidated Condensed Statements of Stockholders' Equity Statement</ShortName>
+      <MenuCategory>Statements</MenuCategory>
+      <Position>7</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R8.htm</HtmlFileName>
+      <LongName>1007008 - Statement - Consolidated Condensed Statements of Stockholders' Equity Statements of Stockholders' Equity (Parenthetical)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ConsolidatedCondensedStatementsofStockholdersEquityStatementsofStockholdersEquityParenthetical</Role>
+      <ShortName>Consolidated Condensed Statements of Stockholders' Equity Statements of Stockholders' Equity (Parenthetical)</ShortName>
+      <MenuCategory>Statements</MenuCategory>
+      <Position>8</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R9.htm</HtmlFileName>
+      <LongName>2101101 - Disclosure - Basis of Presentation</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/BasisofPresentation</Role>
+      <ShortName>Basis of Presentation</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>9</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R10.htm</HtmlFileName>
+      <LongName>2102102 - Disclosure - Operating Segments</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/OperatingSegments</Role>
+      <ShortName>Operating Segments</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>10</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R11.htm</HtmlFileName>
+      <LongName>2106103 - Disclosure - Earnings Per Share</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/EarningsPerShare</Role>
+      <ShortName>Earnings Per Share</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>11</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R12.htm</HtmlFileName>
+      <LongName>2109104 - Disclosure - Contract Liabilities</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ContractLiabilities</Role>
+      <ShortName>Contract Liabilities</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>12</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R13.htm</HtmlFileName>
+      <LongName>2112105 - Disclosure - Other Financial Statement Details</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/OtherFinancialStatementDetails</Role>
+      <ShortName>Other Financial Statement Details</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>13</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R14.htm</HtmlFileName>
+      <LongName>2116106 - Disclosure - Restructuring and Other Charges</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/RestructuringandOtherCharges</Role>
+      <ShortName>Restructuring and Other Charges</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>14</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R15.htm</HtmlFileName>
+      <LongName>2119107 - Disclosure - Investments</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/Investments</Role>
+      <ShortName>Investments</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>15</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R16.htm</HtmlFileName>
+      <LongName>2126108 - Disclosure - Acquisitions and Divestitures</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/AcquisitionsandDivestitures</Role>
+      <ShortName>Acquisitions and Divestitures</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>16</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R17.htm</HtmlFileName>
+      <LongName>2130109 - Disclosure - Borrowings</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/Borrowings</Role>
+      <ShortName>Borrowings</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>17</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R18.htm</HtmlFileName>
+      <LongName>2134110 - Disclosure - Fair Value</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/FairValue</Role>
+      <ShortName>Fair Value</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>18</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R19.htm</HtmlFileName>
+      <LongName>2137111 - Disclosure - Other Comprehensive Income (Loss)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/OtherComprehensiveIncomeLoss</Role>
+      <ShortName>Other Comprehensive Income (Loss)</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>19</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R20.htm</HtmlFileName>
+      <LongName>2140112 - Disclosure - Derivative Financial Instruments</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/DerivativeFinancialInstruments</Role>
+      <ShortName>Derivative Financial Instruments</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>20</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R21.htm</HtmlFileName>
+      <LongName>2143113 - Disclosure - Contingencies</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/Contingencies</Role>
+      <ShortName>Contingencies</ShortName>
+      <MenuCategory>Notes</MenuCategory>
+      <Position>21</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R22.htm</HtmlFileName>
+      <LongName>2303301 - Disclosure - Operating Segments (Tables)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/OperatingSegmentsTables</Role>
+      <ShortName>Operating Segments (Tables)</ShortName>
+      <MenuCategory>Tables</MenuCategory>
+      <ParentRole>http://www.intel.com/role/OperatingSegments</ParentRole>
+      <Position>22</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R23.htm</HtmlFileName>
+      <LongName>2307302 - Disclosure - Earnings Per Share (Tables)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/EarningsPerShareTables</Role>
+      <ShortName>Earnings Per Share (Tables)</ShortName>
+      <MenuCategory>Tables</MenuCategory>
+      <ParentRole>http://www.intel.com/role/EarningsPerShare</ParentRole>
+      <Position>23</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R24.htm</HtmlFileName>
+      <LongName>2310303 - Disclosure - Contract Liabilities (Tables)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ContractLiabilitiesTables</Role>
+      <ShortName>Contract Liabilities (Tables)</ShortName>
+      <MenuCategory>Tables</MenuCategory>
+      <ParentRole>http://www.intel.com/role/ContractLiabilities</ParentRole>
+      <Position>24</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R25.htm</HtmlFileName>
+      <LongName>2313304 - Disclosure - Other Financial Statement Details (Tables)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/OtherFinancialStatementDetailsTables</Role>
+      <ShortName>Other Financial Statement Details (Tables)</ShortName>
+      <MenuCategory>Tables</MenuCategory>
+      <ParentRole>http://www.intel.com/role/OtherFinancialStatementDetails</ParentRole>
+      <Position>25</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R26.htm</HtmlFileName>
+      <LongName>2317305 - Disclosure - Restructuring and Other Charges (Tables)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/RestructuringandOtherChargesTables</Role>
+      <ShortName>Restructuring and Other Charges (Tables)</ShortName>
+      <MenuCategory>Tables</MenuCategory>
+      <ParentRole>http://www.intel.com/role/RestructuringandOtherCharges</ParentRole>
+      <Position>26</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R27.htm</HtmlFileName>
+      <LongName>2320306 - Disclosure - Investments (Tables)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/InvestmentsTables</Role>
+      <ShortName>Investments (Tables)</ShortName>
+      <MenuCategory>Tables</MenuCategory>
+      <ParentRole>http://www.intel.com/role/Investments</ParentRole>
+      <Position>27</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R28.htm</HtmlFileName>
+      <LongName>2327307 - Disclosure - Acquisitions and Divestitures (Tables)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/AcquisitionsandDivestituresTables</Role>
+      <ShortName>Acquisitions and Divestitures (Tables)</ShortName>
+      <MenuCategory>Tables</MenuCategory>
+      <ParentRole>http://www.intel.com/role/AcquisitionsandDivestitures</ParentRole>
+      <Position>28</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R29.htm</HtmlFileName>
+      <LongName>2331308 - Disclosure - Borrowings (Tables)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/BorrowingsTables</Role>
+      <ShortName>Borrowings (Tables)</ShortName>
+      <MenuCategory>Tables</MenuCategory>
+      <ParentRole>http://www.intel.com/role/Borrowings</ParentRole>
+      <Position>29</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R30.htm</HtmlFileName>
+      <LongName>2335309 - Disclosure - Fair Value (Tables)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/FairValueTables</Role>
+      <ShortName>Fair Value (Tables)</ShortName>
+      <MenuCategory>Tables</MenuCategory>
+      <ParentRole>http://www.intel.com/role/FairValue</ParentRole>
+      <Position>30</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R31.htm</HtmlFileName>
+      <LongName>2338310 - Disclosure - Other Comprehensive Income (Loss) (Tables)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/OtherComprehensiveIncomeLossTables</Role>
+      <ShortName>Other Comprehensive Income (Loss) (Tables)</ShortName>
+      <MenuCategory>Tables</MenuCategory>
+      <ParentRole>http://www.intel.com/role/OtherComprehensiveIncomeLoss</ParentRole>
+      <Position>31</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R32.htm</HtmlFileName>
+      <LongName>2341311 - Disclosure - Derivative Financial Instruments (Tables)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/DerivativeFinancialInstrumentsTables</Role>
+      <ShortName>Derivative Financial Instruments (Tables)</ShortName>
+      <MenuCategory>Tables</MenuCategory>
+      <ParentRole>http://www.intel.com/role/DerivativeFinancialInstruments</ParentRole>
+      <Position>32</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R33.htm</HtmlFileName>
+      <LongName>2404401 - Disclosure - Business Segments (Detail)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/BusinessSegmentsDetail</Role>
+      <ShortName>Business Segments (Detail)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>33</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R34.htm</HtmlFileName>
+      <LongName>2405402 - Disclosure - Product Information (Detail)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ProductInformationDetail</Role>
+      <ShortName>Product Information (Detail)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>34</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R35.htm</HtmlFileName>
+      <LongName>2408403 - Disclosure - Earnings Per Share (Detail)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/EarningsPerShareDetail</Role>
+      <ShortName>Earnings Per Share (Detail)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <ParentRole>http://www.intel.com/role/EarningsPerShareTables</ParentRole>
+      <Position>35</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R36.htm</HtmlFileName>
+      <LongName>2411404 - Disclosure - Contract Liabilities (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ContractLiabilitiesDetails</Role>
+      <ShortName>Contract Liabilities (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <ParentRole>http://www.intel.com/role/ContractLiabilitiesTables</ParentRole>
+      <Position>36</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R37.htm</HtmlFileName>
+      <LongName>2414405 - Disclosure - Other Financial Statement Details Inventories (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/OtherFinancialStatementDetailsInventoriesDetails</Role>
+      <ShortName>Other Financial Statement Details Inventories (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>37</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R38.htm</HtmlFileName>
+      <LongName>2415406 - Disclosure - Other Financial Statement Details Interest and Other, Net (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/OtherFinancialStatementDetailsInterestandOtherNetDetails</Role>
+      <ShortName>Other Financial Statement Details Interest and Other, Net (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>38</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R39.htm</HtmlFileName>
+      <LongName>2418407 - Disclosure - Restructuring and Other Charges (Detail)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/RestructuringandOtherChargesDetail</Role>
+      <ShortName>Restructuring and Other Charges (Detail)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <ParentRole>http://www.intel.com/role/RestructuringandOtherChargesTables</ParentRole>
+      <Position>39</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R40.htm</HtmlFileName>
+      <LongName>2421408 - Disclosure - Investments, Trading Assets (Detail)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/InvestmentsTradingAssetsDetail</Role>
+      <ShortName>Investments, Trading Assets (Detail)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>40</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R41.htm</HtmlFileName>
+      <LongName>2422409 - Disclosure - Investments, Available-for-Sale Debt Investments (Detail)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/InvestmentsAvailableforSaleDebtInvestmentsDetail</Role>
+      <ShortName>Investments, Available-for-Sale Debt Investments (Detail)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>41</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R42.htm</HtmlFileName>
+      <LongName>2423410 - Disclosure - Investments, Equity Investments (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/InvestmentsEquityInvestmentsDetails</Role>
+      <ShortName>Investments, Equity Investments (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>42</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R43.htm</HtmlFileName>
+      <LongName>2424411 - Disclosure - Investments - Equity Investments, Narrative (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/InvestmentsEquityInvestmentsNarrativeDetails</Role>
+      <ShortName>Investments - Equity Investments, Narrative (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>43</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R44.htm</HtmlFileName>
+      <LongName>2425412 - Disclosure - Investments - Bejing Unisoc Technology (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/InvestmentsBejingUnisocTechnologyDetails</Role>
+      <ShortName>Investments - Bejing Unisoc Technology (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>44</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R45.htm</HtmlFileName>
+      <LongName>2428413 - Disclosure - Acquisitions and Divestitures (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/AcquisitionsandDivestituresDetails</Role>
+      <ShortName>Acquisitions and Divestitures (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <ParentRole>http://www.intel.com/role/AcquisitionsandDivestituresTables</ParentRole>
+      <Position>45</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R46.htm</HtmlFileName>
+      <LongName>2429414 - Disclosure - Acquisitions and Divestitures - Schedule of Assets Held for Sale (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/AcquisitionsandDivestituresScheduleofAssetsHeldforSaleDetails</Role>
+      <ShortName>Acquisitions and Divestitures - Schedule of Assets Held for Sale (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>46</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R47.htm</HtmlFileName>
+      <LongName>2432415 - Disclosure - Borrowings Borrowings, Narrative (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/BorrowingsBorrowingsNarrativeDetails</Role>
+      <ShortName>Borrowings Borrowings, Narrative (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>47</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R48.htm</HtmlFileName>
+      <LongName>2433416 - Disclosure - Borrowings, Long-term Debt (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/BorrowingsLongtermDebtDetails</Role>
+      <ShortName>Borrowings, Long-term Debt (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>48</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R49.htm</HtmlFileName>
+      <LongName>2436417 - Disclosure - Fair Value (Detail)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/FairValueDetail</Role>
+      <ShortName>Fair Value (Detail)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <ParentRole>http://www.intel.com/role/FairValueTables</ParentRole>
+      <Position>49</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R50.htm</HtmlFileName>
+      <LongName>2439418 - Disclosure - Other Comprehensive Income (Loss), Accumulated Other Comprehensive Income (Loss) (Detail)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/OtherComprehensiveIncomeLossAccumulatedOtherComprehensiveIncomeLossDetail</Role>
+      <ShortName>Other Comprehensive Income (Loss), Accumulated Other Comprehensive Income (Loss) (Detail)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <ParentRole>http://www.intel.com/role/OtherComprehensiveIncomeLossTables</ParentRole>
+      <Position>50</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R51.htm</HtmlFileName>
+      <LongName>2442419 - Disclosure - Derivative Financial Instruments (Detail)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/DerivativeFinancialInstrumentsDetail</Role>
+      <ShortName>Derivative Financial Instruments (Detail)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <ParentRole>http://www.intel.com/role/DerivativeFinancialInstrumentsTables</ParentRole>
+      <Position>51</Position>
+    </Report>
+    <Report instance="intc-20210925.htm">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <HtmlFileName>R52.htm</HtmlFileName>
+      <LongName>2444420 - Disclosure - Contingencies (Detail)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://www.intel.com/role/ContingenciesDetail</Role>
+      <ShortName>Contingencies (Detail)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <ParentRole>http://www.intel.com/role/Contingencies</ParentRole>
+      <Position>52</Position>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>All Reports</LongName>
+      <ReportType>Book</ReportType>
+      <ShortName>All Reports</ShortName>
+    </Report>
+  </MyReports>
+  <InputFiles>
+    <File doctype="10-Q" original="intc-20210925.htm">intc-20210925.htm</File>
+    <File>a9252021ex311.htm</File>
+    <File>a9252021ex312.htm</File>
+    <File>a9252021ex321.htm</File>
+    <File>intc-20210925.xsd</File>
+    <File>intc-20210925_cal.xml</File>
+    <File>intc-20210925_def.xml</File>
+    <File>intc-20210925_lab.xml</File>
+    <File>intc-20210925_pre.xml</File>
+  </InputFiles>
+  <SupplementalFiles>
+    <File>intc-20210925_g1.jpg</File>
+    <File>intc-20210925_g10.jpg</File>
+    <File>intc-20210925_g11.jpg</File>
+    <File>intc-20210925_g12.jpg</File>
+    <File>intc-20210925_g13.jpg</File>
+    <File>intc-20210925_g14.jpg</File>
+    <File>intc-20210925_g15.jpg</File>
+    <File>intc-20210925_g16.jpg</File>
+    <File>intc-20210925_g17.jpg</File>
+    <File>intc-20210925_g18.jpg</File>
+    <File>intc-20210925_g19.jpg</File>
+    <File>intc-20210925_g2.jpg</File>
+    <File>intc-20210925_g20.jpg</File>
+    <File>intc-20210925_g21.jpg</File>
+    <File>intc-20210925_g22.jpg</File>
+    <File>intc-20210925_g23.jpg</File>
+    <File>intc-20210925_g24.jpg</File>
+    <File>intc-20210925_g25.jpg</File>
+    <File>intc-20210925_g26.jpg</File>
+    <File>intc-20210925_g27.jpg</File>
+    <File>intc-20210925_g3.jpg</File>
+    <File>intc-20210925_g4.jpg</File>
+    <File>intc-20210925_g5.jpg</File>
+    <File>intc-20210925_g6.jpg</File>
+    <File>intc-20210925_g7.jpg</File>
+    <File>intc-20210925_g8.jpg</File>
+    <File>intc-20210925_g9.jpg</File>
+  </SupplementalFiles>
+  <BaseTaxonomies>
+    <BaseTaxonomy>http://xbrl.sec.gov/dei/2021</BaseTaxonomy>
+    <BaseTaxonomy>http://fasb.org/srt/2021-01-31</BaseTaxonomy>
+    <BaseTaxonomy>http://fasb.org/us-gaap/2021-01-31</BaseTaxonomy>
+  </BaseTaxonomies>
+  <HasPresentationLinkbase>true</HasPresentationLinkbase>
+  <HasCalculationLinkbase>true</HasCalculationLinkbase>
+</FilingSummary>
