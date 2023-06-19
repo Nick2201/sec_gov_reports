@@ -21,6 +21,7 @@ xlwings = "^0.30.9"
 pyexcel = "^0.7.0"
 pyexcel-xls = "^0.7.0"
 xls2xlsx = "^0.2.0"
+jupyter = "^1.0.0"
 
 
 [build-system]
