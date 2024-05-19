@@ -45,7 +45,7 @@ poetry install
 ```
 
 ## Usage
-
+TASK:  classify.py
 1. Set up your database connection by modifying the `config.py` file.
 2. Customize the selected categories for classification in the `classify.py` file.
 3. Run the classification script:
